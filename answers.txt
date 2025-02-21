@@ -9,3 +9,8 @@ Answer: It could be good with a field where applying insights on data would be g
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing lets you add changes from any branch into a new branch while merging just straight up combines two branches
+
+Q4: What are you looking forward to this semester?
+
+Answer: It's my last semester so im trying to get the most out of it and learn as much as possible while also having as much fun as possilbe.
+
