@@ -6,3 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be good with a field where applying insights on data would be good such as retail, marketing and advertising.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebasing lets you add changes from any branch into a new branch while merging just straight up combines two branches
